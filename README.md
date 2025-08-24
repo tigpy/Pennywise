@@ -3,7 +3,7 @@ PennyWise – A smart AI-powered expense tracker with real-time insights, budget
 
 # 🧩 PennyWise – Smart Expense Tracker
 
-(./<img width="709" height="177" alt="logo" src="https://github.com/user-attachments/assets/dcbdf5b8-6bbe-4c85-8fd5-afa5292edac4" />
+./<img width="709" height="177" alt="logo" src="https://github.com/user-attachments/assets/dcbdf5b8-6bbe-4c85-8fd5-afa5292edac4" />
 
 **PennyWise** is a **smart, AI-powered expense tracker** that helps you manage your money efficiently. Track your daily expenses, set personalized budgets, scan receipts using OCR, get intelligent financial insights, and visualize your spending habits — all in one place.
 
@@ -47,8 +47,8 @@ PennyWise – A smart AI-powered expense tracker with real-time insights, budget
 
 ## 📸 Screenshots
 
-*(<img width="1894" height="2896" alt="Pennywise" src="https://github.com/user-attachments/assets/2909e69e-5f25-477b-9f8e-5319b8468701" />
-)*
+<img width="1894" height="2896" alt="Pennywise" src="https://github.com/user-attachments/assets/2909e69e-5f25-477b-9f8e-5319b8468701" />
+
 
 ---
 
